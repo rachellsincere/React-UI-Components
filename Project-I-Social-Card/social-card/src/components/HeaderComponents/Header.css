@@ -1,1 +1,41 @@
 /* All styles for your header Components live here */
+
+.header-container {
+    display: flex;
+    padding: 8px;
+
+}
+
+.image-thumbnail {
+    width: 8%;
+    height: 4%;
+    margin-top: 1%;
+    display: inline-block;
+}
+
+.header-title {
+    display: inline-block;
+    vertical-align: top;
+    padding: 0px 8px;
+}
+
+.title-text {
+    font-size: 1rem;
+    display: inline-block;
+    padding: 0px 2px;
+}
+
+.handle-text, .timestamp {
+    font-size: .8rem;
+    display: inline-block;
+    padding: 0px 2px;
+    color: gray;
+}
+
+.header-content p {
+    display: inline;
+}
+
+p {
+    word-spacing: 3px;
+}
