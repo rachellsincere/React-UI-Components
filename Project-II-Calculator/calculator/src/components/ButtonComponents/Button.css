@@ -1,0 +1,41 @@
+.action-btn {
+    box-sizing: border-box;
+    border-top: 2px solid lightgray;
+    border-right: 2px solid lightgray;
+    width: 75%;
+    height:20%;
+    color: black;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.number-btn {
+    box-sizing: border-box;
+    border-top: 2px solid lightgray;
+    border-right: 2px solid lightgray;
+    width: 25%;
+    height:20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+
+
+}
+
+.function-btn {
+    box-sizing: border-box;
+    border-top: 2px solid lightgray;
+    width: 25%;
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    background-color: darkred;
+    color: white;
+
+
+}

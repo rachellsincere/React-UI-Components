@@ -1,0 +1,8 @@
+.app-container {
+    width:240px; 
+    height:300px;
+    border: 2px solid lightgray;
+    margin: 40px;
+    display:flex;
+    flex-wrap: wrap;
+}
