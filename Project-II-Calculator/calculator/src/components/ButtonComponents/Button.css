@@ -1,10 +1,8 @@
 .action-btn {
     width: 75%;
-    height: 20%;
+    height:45px;
     color: black;
     font-size: 30px;
-    border-bottom: 2px solid lightgray;
-    border-right: 2px solid lightgray;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -12,8 +10,7 @@
 
 .number-btn {
     width: 25%;
-    height: 20%;
-    border-bottom: 2px solid lightgray;
+    height:45px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -24,8 +21,7 @@
 
 .function-btn {
     width: 25%;
-    height: 20%;
-    border-bottom: 2px solid lightgray;
+    height: 45px;
     display: flex;
     justify-content: center;
     align-items: center;
