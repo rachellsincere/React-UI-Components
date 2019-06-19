@@ -1,6 +1,9 @@
 .action-btn {
+    box-sizing: border-box;
+    border-top: 2px solid lightgray;
+    border-right: 2px solid lightgray;
     width: 75%;
-    height:45px;
+    height:20%;
     color: black;
     font-size: 30px;
     display: flex;
@@ -9,8 +12,11 @@
 }
 
 .number-btn {
+    box-sizing: border-box;
+    border-top: 2px solid lightgray;
+    border-right: 2px solid lightgray;
     width: 25%;
-    height:45px;
+    height:20%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -20,8 +26,10 @@
 }
 
 .function-btn {
+    box-sizing: border-box;
+    border-top: 2px solid lightgray;
     width: 25%;
-    height: 45px;
+    height: 20%;
     display: flex;
     justify-content: center;
     align-items: center;
